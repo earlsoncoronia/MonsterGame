@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# 102314Thursday
+#
+
+projectname: 102314Thursday
+vendorid: com.coronia.example
+mainmodule: com.coronia.example.102314thursday
